@@ -6,8 +6,8 @@
         .module('app')
         .constant('malarkey', malarkey)
         .constant('moment', moment)
-        .constant('ServerURL', 'https://drgapp.com/server/')
-        // .constant('ServerURL', 'http://localhost/drgapp/server/')
+        // .constant('ServerURL', 'https://drgapp.com/server/')
+        .constant('ServerURL', 'http://localhost/digimenu/server/')
     ;
 
 })();
