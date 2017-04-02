@@ -1,2 +1,2 @@
-# drgapp
-DRG
+# digimenu
+Digimenu App
