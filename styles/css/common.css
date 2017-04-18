@@ -25,3 +25,10 @@
 body:not(.menu-on-top).desktop-detected {
     min-height: inherit !important;
 }
+
+.bg-white {
+    background: white;
+}
+.bg-black {
+    background: black;
+}

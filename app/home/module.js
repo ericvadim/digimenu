@@ -11,4 +11,13 @@ angular.module('app.home', ['ui.router']).config(function ($stateProvider) {
                 }
             }
         })
+        .state('categories', {
+            url: '/categories',
+            views: {
+                root: {
+                    templateUrl: 'app/home/views/categories.html',
+                    controller: 'CategoriesCtrl'
+                }
+            }
+        })
 });

@@ -15,62 +15,68 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/home/views/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.tpl.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/layout/partials/header.tpl.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="404">
-              <caret line="88" column="36" lean-forward="true" selection-start-line="88" selection-start-column="36" selection-end-line="88" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="your_style.css" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/styles/css/your_style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="recentProjects.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/dashboard/projects/recentProjects.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="36" lean-forward="true" selection-start-line="14" selection-start-column="36" selection-end-line="14" selection-end-column="36" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="recent-projects.tpl.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/dashboard/projects/recent-projects.tpl.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="layout.tpl.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/layout/layout.tpl.html">
+      <file leaf-file-name="module.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/home/module.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
-              <caret line="23" column="23" lean-forward="true" selection-start-line="23" selection-start-column="23" selection-end-line="23" selection-end-column="23" />
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding>
+                <marker date="1492520092173" expanded="true" signature="90:622" ph="{...}" />
+                <marker date="1492520092173" expanded="true" signature="383:619" ph="{&quot;url&quot;: '/categories'...}" />
+                <marker date="1492520092173" expanded="true" signature="436:609" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CategoriesCtrl.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/home/controllers/CategoriesCtrl.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="categories.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/home/views/categories.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="80" lean-forward="true" selection-start-line="10" selection-start-column="80" selection-end-line="10" selection-end-column="80" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="common.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/styles/css/common.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="544">
+              <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="normal.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/tables/views/normal.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="374">
+              <caret line="22" column="37" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="22" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeCtrl.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/home/controllers/HomeCtrl.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+              <folding>
+                <marker date="1492520053870" expanded="true" signature="91:162" ph="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -85,6 +91,7 @@
       <find>cont</find>
       <find>recen</find>
       <find>project</find>
+      <find>id=</find>
     </findStrings>
     <dirStrings>
       <dir>C:\wamp\www\digimenu\app</dir>
@@ -102,16 +109,18 @@
         <option value="$PROJECT_DIR$/app/admin/module.js" />
         <option value="$PROJECT_DIR$/app/admin/views/dashboard.html" />
         <option value="$PROJECT_DIR$/app/home/controllers/LoginCtrl.js" />
-        <option value="$PROJECT_DIR$/app/home/controllers/HomeCtrl.js" />
-        <option value="$PROJECT_DIR$/app/home/module.js" />
-        <option value="$PROJECT_DIR$/styles/css/common.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/app/layout/module.js" />
-        <option value="$PROJECT_DIR$/app/home/views/home.html" />
         <option value="$PROJECT_DIR$/app/dashboard/projects/recent-projects.tpl.html" />
         <option value="$PROJECT_DIR$/api/langs/kr.json" />
         <option value="$PROJECT_DIR$/app/layout/partials/header.tpl.html" />
         <option value="$PROJECT_DIR$/styles/css/your_style.css" />
+        <option value="$PROJECT_DIR$/app/home/controllers/HomeCtrl.js" />
+        <option value="$PROJECT_DIR$/app/home/views/home.html" />
+        <option value="$PROJECT_DIR$/app/home/module.js" />
+        <option value="$PROJECT_DIR$/app/home/controllers/CategoriesCtrl.js" />
+        <option value="$PROJECT_DIR$/styles/css/common.css" />
+        <option value="$PROJECT_DIR$/app/home/views/categories.html" />
       </list>
     </option>
   </component>
@@ -483,11 +492,60 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="your&#9;FILE&#9;file://C:/wamp/www/digimenu/styles/css/your_style.css&#10;recentprojectt&#9;FILE&#9;file://C:/wamp/www/digimenu/app/dashboard/projects/recent-projects.tpl.html&#10;headert&#9;FILE&#9;file://C:/wamp/www/digimenu/app/layout/partials/header.tpl.html&#10;index&#9;FILE&#9;file://C:/wamp/www/digimenu/index.html&#10;inde&#9;FILE&#9;file://C:/wamp/www/digimenu/index.html&#10;common.&#9;FILE&#9;file://C:/wamp/www/digimenu/styles/css/common.css&#10;homec&#9;FILE&#9;file://C:/wamp/www/digimenu/app/home/controllers/HomeCtrl.js&#10;app.js&#9;FILE&#9;file://C:/wamp/www/digimenu/app/app.js&#10;modu&#9;FILE&#9;file://C:/wamp/www/digimenu/app/home/module.js&#10;hom&#9;FILE&#9;file://C:/wamp/www/digimenu/app/home/controllers/HomeCtrl.js&#10;mainct&#9;FILE&#9;file://C:/wamp/www/digimenu/app/main/controllers/MainCtrl.js" />
+    <property name="SearchEverywhereHistoryKey" value="common&#9;FILE&#9;file://C:/wamp/www/digimenu/styles/css/common.css&#10;home&#9;FILE&#9;file://C:/wamp/www/digimenu/app/home/controllers/HomeCtrl.js&#10;your&#9;FILE&#9;file://C:/wamp/www/digimenu/styles/css/your_style.css&#10;recentprojectt&#9;FILE&#9;file://C:/wamp/www/digimenu/app/dashboard/projects/recent-projects.tpl.html&#10;headert&#9;FILE&#9;file://C:/wamp/www/digimenu/app/layout/partials/header.tpl.html&#10;index&#9;FILE&#9;file://C:/wamp/www/digimenu/index.html&#10;inde&#9;FILE&#9;file://C:/wamp/www/digimenu/index.html&#10;common.&#9;FILE&#9;file://C:/wamp/www/digimenu/styles/css/common.css&#10;homec&#9;FILE&#9;file://C:/wamp/www/digimenu/app/home/controllers/HomeCtrl.js&#10;app.js&#9;FILE&#9;file://C:/wamp/www/digimenu/app/app.js&#10;modu&#9;FILE&#9;file://C:/wamp/www/digimenu/app/home/module.js&#10;hom&#9;FILE&#9;file://C:/wamp/www/digimenu/app/home/controllers/HomeCtrl.js&#10;mainct&#9;FILE&#9;file://C:/wamp/www/digimenu/app/main/controllers/MainCtrl.js" />
     <property name="nodejs_interpreter_path" value="C:/Program Files (x86)/nodejs/node" />
+    <property name="js.eslint.eslintPackage" value="" />
+    <property name="js-jscs-nodeInterpreter" value="C:\Program Files (x86)\nodejs\node.exe" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
     <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpSpecConfigurationType" factoryName="PHPSpec">
+      <PhpTestRunnerSettings />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
       <method />
     </configuration>
   </component>
@@ -505,12 +563,12 @@
       <option name="presentableId" value="Default" />
       <updated>1492508636022</updated>
       <workItem from="1492508640144" duration="4155000" />
-      <workItem from="1492512829265" duration="4945000" />
+      <workItem from="1492512829265" duration="7984000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9100000" />
+    <option name="totallyTimeSpent" value="12139000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="959" extended-state="6" />
@@ -767,42 +825,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/home/controllers/HomeCtrl.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="22" lean-forward="false" selection-start-line="3" selection-start-column="21" selection-end-line="3" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/styles/css/common.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="15" lean-forward="false" selection-start-line="20" selection-start-column="1" selection-end-line="20" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="86" column="16" lean-forward="true" selection-start-line="86" selection-start-column="16" selection-end-line="86" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/home/module.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/home/views/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
           <folding />
         </state>
       </provider>
@@ -847,6 +873,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/styles/css/your_style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/layout/partials/header.tpl.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="404">
@@ -855,10 +889,64 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/styles/css/your_style.css">
+    <entry file="file://$PROJECT_DIR$/app/home/controllers/HomeCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="23" lean-forward="false" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          <folding>
+            <marker date="1492520053870" expanded="true" signature="91:162" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/home/controllers/CategoriesCtrl.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="0" lean-forward="false" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/home/views/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="33" lean-forward="true" selection-start-line="4" selection-start-column="33" selection-end-line="4" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/home/module.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <marker date="1492520092173" expanded="true" signature="90:622" ph="{...}" />
+            <marker date="1492520092173" expanded="true" signature="383:619" ph="{&quot;url&quot;: '/categories'...}" />
+            <marker date="1492520092173" expanded="true" signature="436:609" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/tables/views/normal.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <caret line="22" column="37" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="22" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/styles/css/common.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="32" column="22" lean-forward="false" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/home/views/categories.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="80" lean-forward="true" selection-start-line="10" selection-start-column="80" selection-end-line="10" selection-end-column="80" />
           <folding />
         </state>
       </provider>
