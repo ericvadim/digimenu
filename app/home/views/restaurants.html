@@ -8,15 +8,11 @@
         <div class="col-sm-6">
             <section widget-grid id="widget-grid-categories">
                 <div class="row">
-                    <article class="col-sm-6" ng-repeat="category in categories">
-                        <div jarvis-widget ng-click="go('restaurants')" class="jarviswidget jarviswidget-color-orangeDark jarviswidget-sortable cursor-pointer margin-bottom-10" data-widget-editbutton="true" data-widget-deletebutton="false">
-                            <header>
-                                <span class="widget-icon"> <i class="fa fa-table"></i> </span>
-                                <h2>{{getWord(category.category_name)}}</h2>
-                            </header>
-                            <div class="padding-5">
+                    <article class="col-sm-4" ng-repeat="restaurant in restaurants">
+                        <div jarvis-widget class="jarviswidget jarviswidget-color-orangeDark jarviswidget-sortable cursor-pointer margin-bottom-10" data-widget-editbutton="true" data-widget-deletebutton="false">
+                            <div class="padding-5 border-0">
                                 <div class="widget-body padding-bottom-0">
-                                    <img class="img-responsive" ng-src="./styles/img/temp/categories/{{category.id}}.jpg">
+                                    <img class="img-responsive" ng-src="./styles/img/temp/restaurants/{{restaurant.id}}.jpg">
                                 </div>
                             </div>
                         </div>

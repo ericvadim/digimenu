@@ -18,7 +18,22 @@
  * - CUSTOM STYLES
  */
 
-
 #search-fld {
     width: 300px;
+}
+
+.border-0 {
+    border: 0 !important;
+}
+
+.page-footer {
+    height: 30px;
+    padding: 5px;
+    text-align: center;
+    border-top: 1px solid #CECECE;
+    background: #2a2725;
+    width: 100%;
+    position: relative;
+    display: block;
+    bottom: 0;
 }

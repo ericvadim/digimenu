@@ -20,4 +20,13 @@ angular.module('app.home', ['ui.router']).config(function ($stateProvider) {
                 }
             }
         })
+        .state('restaurants', {
+            url: '/restaurants',
+            views: {
+                root: {
+                    templateUrl: 'app/home/views/restaurants.html',
+                    controller: 'RestaurantsCtrl'
+                }
+            }
+        })
 });
