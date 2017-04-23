@@ -37,3 +37,15 @@
     display: block;
     bottom: 0;
 }
+
+#extr-page #header {
+    background: #f78c40 !important;
+}
+
+#extr-page #main {
+    padding-top: 0px !important;
+}
+
+.padding-top-40 {
+    padding-top: 40px;
+}
