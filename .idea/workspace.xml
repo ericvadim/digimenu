@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="059b5da5-7f72-4a6c-9d47-d4f833c9eeb6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/auth/views/forgot-password.html" afterPath="$PROJECT_DIR$/app/auth/views/forgot-password.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/auth/views/login.html" afterPath="$PROJECT_DIR$/app/auth/views/login.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/auth/views/register.html" afterPath="$PROJECT_DIR$/app/auth/views/register.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/layout/module.js" afterPath="$PROJECT_DIR$/app/layout/module.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/layout/partials/header.tpl.html" afterPath="$PROJECT_DIR$/app/layout/partials/header.tpl.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/app.js" afterPath="$PROJECT_DIR$/build/app.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -20,51 +20,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="restaurants.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/home/views/restaurants.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="646">
-              <caret line="53" column="22" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="53" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/auth/views/login.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
-              <caret line="72" column="24" lean-forward="true" selection-start-line="62" selection-start-column="16" selection-end-line="72" selection-end-column="24" />
+            <state relative-caret-position="234">
+              <caret line="70" column="40" lean-forward="true" selection-start-line="70" selection-start-column="40" selection-end-line="70" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.tpl.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="header.tpl.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/layout/partials/header.tpl.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="66" column="30" lean-forward="true" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/auth/views/register.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
-              <caret line="116" column="24" lean-forward="true" selection-start-line="106" selection-start-column="16" selection-end-line="116" selection-end-column="24" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="forgot-password.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/auth/views/forgot-password.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="73" column="61" lean-forward="true" selection-start-line="73" selection-start-column="61" selection-end-line="73" selection-end-column="61" />
+            <state relative-caret-position="165">
+              <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -75,36 +45,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
               <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/home/views/home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="your_style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/styles/css/your_style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="categories.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/home/views/categories.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -130,6 +70,7 @@
       <find>sign</find>
       <find>i agree</find>
       <find>agree</find>
+      <find>log</find>
     </findStrings>
     <dirStrings>
       <dir>C:\wamp\www\digimenu\app</dir>
@@ -164,11 +105,11 @@
         <option value="$PROJECT_DIR$/app/home/views/restaurants.html" />
         <option value="$PROJECT_DIR$/app/home/controllers/RestaurantsCtrl.js" />
         <option value="$PROJECT_DIR$/styles/css/your_style.css" />
-        <option value="$PROJECT_DIR$/app/layout/module.js" />
-        <option value="$PROJECT_DIR$/app/layout/partials/header.tpl.html" />
         <option value="$PROJECT_DIR$/app/auth/views/login.html" />
         <option value="$PROJECT_DIR$/app/auth/views/register.html" />
         <option value="$PROJECT_DIR$/app/auth/views/forgot-password.html" />
+        <option value="$PROJECT_DIR$/app/layout/module.js" />
+        <option value="$PROJECT_DIR$/app/layout/partials/header.tpl.html" />
       </list>
     </option>
   </component>
@@ -190,9 +131,10 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="4" />
-    <option name="width" value="1568" />
-    <option name="height" value="943" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="959" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -209,6 +151,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -469,15 +413,13 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="SearchEverywhereHistoryKey" value="header&#9;FILE&#9;file://C:/wamp/www/digimenu/app/layout/partials/header.tpl.html&#10;your&#9;FILE&#9;file://C:/wamp/www/digimenu/styles/css/your_style.css&#10;app.&#9;FILE&#9;file://C:/wamp/www/digimenu/app/app.js&#10;restaura&#9;FILE&#9;file://C:/wamp/www/digimenu/app/home/views/restaurants.html&#10;footer&#9;FILE&#9;file://C:/wamp/www/digimenu/app/layout/partials/footer.tpl.html&#10;categor&#9;FILE&#9;file://C:/wamp/www/digimenu/app/home/views/categories.html&#10;module&#9;FILE&#9;file://C:/wamp/www/digimenu/app/home/module.js&#10;catego&#9;FILE&#9;file://C:/wamp/www/digimenu/app/home/views/categories.html&#10;restau&#9;FILE&#9;file://C:/wamp/www/digimenu/app/home/controllers/RestaurantsCtrl.js&#10;footert&#9;FILE&#9;file://C:/wamp/www/digimenu/app/layout/partials/footer.tpl.html&#10;index&#9;FILE&#9;file://C:/wamp/www/digimenu/index.html&#10;common&#9;FILE&#9;file://C:/wamp/www/digimenu/styles/css/common.css&#10;home&#9;FILE&#9;file://C:/wamp/www/digimenu/app/home/controllers/HomeCtrl.js&#10;recentprojectt&#9;FILE&#9;file://C:/wamp/www/digimenu/app/dashboard/projects/recent-projects.tpl.html&#10;headert&#9;FILE&#9;file://C:/wamp/www/digimenu/app/layout/partials/header.tpl.html&#10;inde&#9;FILE&#9;file://C:/wamp/www/digimenu/index.html&#10;common.&#9;FILE&#9;file://C:/wamp/www/digimenu/styles/css/common.css&#10;homec&#9;FILE&#9;file://C:/wamp/www/digimenu/app/home/controllers/HomeCtrl.js&#10;app.js&#9;FILE&#9;file://C:/wamp/www/digimenu/app/app.js&#10;modu&#9;FILE&#9;file://C:/wamp/www/digimenu/app/home/module.js&#10;hom&#9;FILE&#9;file://C:/wamp/www/digimenu/app/home/controllers/HomeCtrl.js&#10;mainct&#9;FILE&#9;file://C:/wamp/www/digimenu/app/main/controllers/MainCtrl.js" />
+    <property name="SearchEverywhereHistoryKey" value="header.&#9;FILE&#9;file://C:/wamp/www/digimenu/app/layout/partials/header.tpl.html&#10;header&#9;FILE&#9;file://C:/wamp/www/digimenu/app/layout/partials/header.tpl.html&#10;your&#9;FILE&#9;file://C:/wamp/www/digimenu/styles/css/your_style.css&#10;app.&#9;FILE&#9;file://C:/wamp/www/digimenu/app/app.js&#10;restaura&#9;FILE&#9;file://C:/wamp/www/digimenu/app/home/views/restaurants.html&#10;footer&#9;FILE&#9;file://C:/wamp/www/digimenu/app/layout/partials/footer.tpl.html&#10;categor&#9;FILE&#9;file://C:/wamp/www/digimenu/app/home/views/categories.html&#10;module&#9;FILE&#9;file://C:/wamp/www/digimenu/app/home/module.js&#10;catego&#9;FILE&#9;file://C:/wamp/www/digimenu/app/home/views/categories.html&#10;restau&#9;FILE&#9;file://C:/wamp/www/digimenu/app/home/controllers/RestaurantsCtrl.js&#10;footert&#9;FILE&#9;file://C:/wamp/www/digimenu/app/layout/partials/footer.tpl.html&#10;index&#9;FILE&#9;file://C:/wamp/www/digimenu/index.html&#10;common&#9;FILE&#9;file://C:/wamp/www/digimenu/styles/css/common.css&#10;home&#9;FILE&#9;file://C:/wamp/www/digimenu/app/home/controllers/HomeCtrl.js&#10;recentprojectt&#9;FILE&#9;file://C:/wamp/www/digimenu/app/dashboard/projects/recent-projects.tpl.html&#10;headert&#9;FILE&#9;file://C:/wamp/www/digimenu/app/layout/partials/header.tpl.html&#10;inde&#9;FILE&#9;file://C:/wamp/www/digimenu/index.html&#10;common.&#9;FILE&#9;file://C:/wamp/www/digimenu/styles/css/common.css&#10;homec&#9;FILE&#9;file://C:/wamp/www/digimenu/app/home/controllers/HomeCtrl.js&#10;app.js&#9;FILE&#9;file://C:/wamp/www/digimenu/app/app.js&#10;modu&#9;FILE&#9;file://C:/wamp/www/digimenu/app/home/module.js&#10;hom&#9;FILE&#9;file://C:/wamp/www/digimenu/app/home/controllers/HomeCtrl.js&#10;mainct&#9;FILE&#9;file://C:/wamp/www/digimenu/app/main/controllers/MainCtrl.js" />
     <property name="nodejs_interpreter_path" value="C:/Program Files (x86)/nodejs/node" />
     <property name="js.eslint.eslintPackage" value="" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files (x86)\nodejs\node.exe" />
@@ -559,19 +501,20 @@
       <workItem from="1492638624491" duration="1822000" />
       <workItem from="1492722531519" duration="1305000" />
       <workItem from="1492723859190" duration="8202000" />
-      <workItem from="1492964157114" duration="4560000" />
+      <workItem from="1492964157114" duration="5928000" />
+      <workItem from="1493045722855" duration="1200000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31174000" />
+    <option name="totallyTimeSpent" value="33742000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="4" y="0" width="1568" height="943" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="959" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Gulp" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18427835" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -602,13 +545,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/admin/views/dashboard.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/admin/module.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -845,7 +781,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -861,15 +796,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="413">
           <caret line="26" column="30" lean-forward="true" selection-start-line="26" selection-start-column="30" selection-end-line="26" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/home/views/restaurants.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="53" column="22" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="53" selection-end-column="22" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -877,7 +803,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
           <caret line="7" column="6" lean-forward="true" selection-start-line="7" selection-start-column="6" selection-end-line="7" selection-end-column="6" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -885,6 +810,43 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="337">
           <caret line="26" column="1" lean-forward="true" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/auth/views/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="116" column="24" lean-forward="true" selection-start-line="106" selection-start-column="16" selection-end-line="116" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/auth/views/forgot-password.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="58" column="40" lean-forward="true" selection-start-line="58" selection-start-column="40" selection-end-line="58" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/home/views/restaurants.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="53" column="22" lean-forward="true" selection-start-line="23" selection-start-column="12" selection-end-line="53" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/auth/views/lock.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/auth/views/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="70" column="40" lean-forward="true" selection-start-line="70" selection-start-column="40" selection-end-line="70" selection-end-column="40" />
           <folding />
         </state>
       </provider>
@@ -899,32 +861,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/layout/partials/header.tpl.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="66" column="30" lean-forward="true" selection-start-line="66" selection-start-column="30" selection-end-line="66" selection-end-column="30" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/auth/views/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
-          <caret line="72" column="24" lean-forward="true" selection-start-line="62" selection-start-column="16" selection-end-line="72" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/auth/views/register.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
-          <caret line="116" column="24" lean-forward="true" selection-start-line="106" selection-start-column="16" selection-end-line="116" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/auth/views/forgot-password.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="73" column="61" lean-forward="true" selection-start-line="73" selection-start-column="61" selection-end-line="73" selection-end-column="61" />
+        <state relative-caret-position="165">
+          <caret line="65" column="0" lean-forward="true" selection-start-line="65" selection-start-column="0" selection-end-line="65" selection-end-column="0" />
           <folding />
         </state>
       </provider>
