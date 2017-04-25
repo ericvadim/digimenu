@@ -3198,6 +3198,44 @@ angular.module('app.forms').controller('ModalDemoCtrl', function($scope, $modalI
 });
 "use strict";
 
+angular.module('app.home').controller('CategoriesCtrl', function ($scope, $state) {
+    $scope.categories = [
+        {id: 1, category_name: "Ethnic"},
+        {id: 2, category_name: "Fast Food"},
+        {id: 3, category_name: "Casual Dining"},
+        {id: 4, category_name: "Fast Casual"},
+        {id: 5, category_name: "Family Dining"},
+        {id: 6, category_name: "Fine Dining"}
+    ];
+    $scope.go = function (state) {
+        $state.go(state);
+    };
+})
+
+"use strict";
+
+angular.module('app.home').controller('HomeCtrl', function ($scope, $state) {
+    $scope.go = function (state) {
+        $state.go(state);
+    };
+})
+
+"use strict";
+
+angular.module('app.home').controller('RestaurantsCtrl', function ($scope, $state) {
+    $scope.restaurants = [
+
+    ];
+    for (var r = 1; r <= 15; r ++) {
+        $scope.restaurants[$scope.restaurants.length] = {id: r, restaurant_name: "Restaurant" + r};
+    }
+    $scope.go = function (state) {
+        $state.go(state);
+    };
+})
+
+"use strict";
+
 angular.module('app.graphs').controller('FlotCtrl', function ($scope) {
 
 
@@ -3501,44 +3539,6 @@ angular.module('app.graphs').controller('FlotCtrl', function ($scope) {
         label : "Site visitors"
     }];
 });
-"use strict";
-
-angular.module('app.home').controller('CategoriesCtrl', function ($scope, $state) {
-    $scope.categories = [
-        {id: 1, category_name: "Ethnic"},
-        {id: 2, category_name: "Fast Food"},
-        {id: 3, category_name: "Casual Dining"},
-        {id: 4, category_name: "Fast Casual"},
-        {id: 5, category_name: "Family Dining"},
-        {id: 6, category_name: "Fine Dining"}
-    ];
-    $scope.go = function (state) {
-        $state.go(state);
-    };
-})
-
-"use strict";
-
-angular.module('app.home').controller('HomeCtrl', function ($scope, $state) {
-    $scope.go = function (state) {
-        $state.go(state);
-    };
-})
-
-"use strict";
-
-angular.module('app.home').controller('RestaurantsCtrl', function ($scope, $state) {
-    $scope.restaurants = [
-
-    ];
-    for (var r = 1; r <= 15; r ++) {
-        $scope.restaurants[$scope.restaurants.length] = {id: r, restaurant_name: "Restaurant" + r};
-    }
-    $scope.go = function (state) {
-        $state.go(state);
-    };
-})
-
 "use strict";
 
 angular.module('app.inbox').directive('messageLabels', function (InboxConfig) {
